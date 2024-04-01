@@ -1,4 +1,0 @@
-This is my Homepage
-This is my First Git
-This is my Second Git
-This is my Third Git
